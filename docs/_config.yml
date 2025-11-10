@@ -1,3 +1,3 @@
-theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/time-machine@v0.2.0
 title: Octocat's homepage
 description: Updated!
