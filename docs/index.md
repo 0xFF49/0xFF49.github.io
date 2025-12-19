@@ -51,3 +51,12 @@ Features:
 Features:
 * Uses trigonometric functions and perlin noises to edit beams and trails
 <iframe src="https://drive.google.com/file/d/1r4Jdz6QZkqQuR-a9ngpZ-MVSi4yQWeqU/preview" height="450px" width="700px"></iframe>
+
+### Spetrum analizer
+Features:
+* A fully functional spectrum analyzer that analyzes the different frequencies of an audio file, and displays them on an EditableImage.
+<iframe src="https://drive.google.com/file/d/1m83k2wY5If-Kx7TtNZX7btB6UXkaHR4s/preview" height="450px" width="700px"></iframe>
+
+# My availability
+My timezone is EST. I am available every Tuesday and Thursday from 10 AM to 6 PM, and on weekends from 10 AM to 11 PM.
+
