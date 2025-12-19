@@ -22,4 +22,4 @@ And many more. Just ask me.
 # Past work
 ### Pet system
 
-<iframe src="https://drive.google.com/file/d/1dQTr1Yu4mrsUuX9aQua69eS8y4effS6O/preview" height="750px" width="1000px"></iframe>
+<iframe src="https://drive.google.com/file/d/1dQTr1Yu4mrsUuX9aQua69eS8y4effS6O/preview" height="450px" width="700px"></iframe>
