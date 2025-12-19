@@ -60,3 +60,5 @@ Features:
 # My availability
 My timezone is EST. I am available every Tuesday and Thursday from 10 AM to 6 PM, and on weekends from 10 AM to 11 PM.
 
+# Payment
+I mostly take real money through PayPal, but Robux works as well. The price can be negotiatied as long as it's a fair negotiation. 
