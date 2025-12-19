@@ -21,6 +21,5 @@ And many more. Just ask me.
 
 # Past work
 ### Pet system
-<video width="320" height="240" controls loop="" muted="" autoplay="">
-    <source src="https://drive.google.com/file/d/1dQTr1Yu4mrsUuX9aQua69eS8y4effS6O/preview" />
-</video>
+
+<iframe src="[demo_iframe.htm](https://drive.google.com/file/d/1dQTr1Yu4mrsUuX9aQua69eS8y4effS6O/preview)" name="iframe_a" height="300px" width="240px" title="Iframe Example"></iframe>
