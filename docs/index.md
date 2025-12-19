@@ -21,5 +21,33 @@ And many more. Just ask me.
 
 # Past work
 ### Pet system
-
+Features:
+* Full egg opening animation
+* Equipping/Unequipping
+* Replication of equipped pets
+* Deleting pets
+* Saving/Loading
+* Rarity-sorted Billboard GUI that pops up via a magnitude check
+* Weighted chance system used when opening eggs
 <iframe src="https://drive.google.com/file/d/1dQTr1Yu4mrsUuX9aQua69eS8y4effS6O/preview" height="450px" width="700px"></iframe>
+
+### Building system
+Features:
+* Able to use any type of item
+* Position and corners of bounding box clamp to the plot's boundry
+* Plot can be rotated in any way (CFrame math is used for this)
+* Checking for collisions of already placed items
+* Saving/Loading finished plots
+<iframe src="https://drive.google.com/file/d/1s1IAbyr5DM6QP8NJbjTyNqtwgOSQowHj/preview" height="450px" width="700px"></iframe>
+
+### Combat system
+Features:
+* Hitbox detection
+* Server authoritative knockback
+* Animation syncing
+<iframe src="https://drive.google.com/file/d/1upKmhriRGXnWSOPNYB94STY-pbjfLR1G/preview" height="450px" width="700px"></iframe>
+
+### Circular neon circle VFX
+Features:
+* Uses trigonometric functions and perlin noises to edit beams and trails
+<iframe src="https://drive.google.com/file/d/1r4Jdz6QZkqQuR-a9ngpZ-MVSi4yQWeqU/preview" height="450px" width="700px"></iframe>
